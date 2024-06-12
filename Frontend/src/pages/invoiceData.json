@@ -1,0 +1,37 @@
+{
+    "company": {
+      "name": "Medimart",
+      "description": "Online Pharmacy Website",
+      "address": ": 64, Akshay Industrial Estate, Near New Cloth Market, Mumbai - 400031",
+      "contact": {
+        "tel": "(+91) 8652146200",
+        "web": "https://medimartt.netlify.app/",
+        "email": "teammedimart@gmail.com"
+      },
+      "GSTIN": "24HDE7487RE5RT4"
+    },
+    "invoiceDetails": {
+      "invoiceNo": "GST112020",
+      "invoiceDate": "04-Mar-2020",
+      "challanNo": "865",
+      "challanDate": "03-Mar-2020",
+      "PONo": "66",
+      "deliveryDate": "04-Mar-2020",
+      "LRNo": "958",
+      "ewayNo": "EWB54864584",
+      "reverseCharge": "No",
+      "dueDate": "19-Mar-2020"
+    },
+    "bankDetails": {
+      "bankName": "State Bank of India",
+      "branchName": "RAF CAMP",
+      "accountNumber": "2000000004512",
+      "branchIFSC": "SBIN0000488"
+    },
+    "termsAndConditions": [
+      "Subject to Mumbai Jurisdiction.",
+      "Our responsibility ceases as soon as the goods leave our premises.",
+      "Goods once sold will not be taken back.",
+      "Delivery ex-premises."
+    ]
+  }
